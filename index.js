@@ -1,4 +1,4 @@
-const sessionName = "yusril";
+const sessionName = "Jon Z";
 const donet = "Hi";
 const owner = ["595972980943"]; // Put your number here ex: ["62xxxxxxxxx"]
 const {
